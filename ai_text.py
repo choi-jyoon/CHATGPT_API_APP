@@ -46,4 +46,5 @@ while True:
     messages.append(
         {'role':'assitant', 'content':response}
     )
+    
     print(response)
